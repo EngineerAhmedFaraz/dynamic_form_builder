@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { toast } from "react-toastify";
 import TextField from "./FieldTypes/TextField";
-import Dropdown from "./FieldTypes/Dropdown";
+import Dropdown from "./FieldTypes/DropDown";
 import RadioButton from "./FieldTypes/RadioButton";
 import FileUpload from "./FieldTypes/FileUpload";
 import Checkbox from "./FieldTypes/Checkbox";
